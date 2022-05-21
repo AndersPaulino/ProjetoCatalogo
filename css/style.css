@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Poppins:wght@400;700&display=swap');
+*{  
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    background: #9400D3;    
+}
+section{
+    min-height: 1235px;
+}
+footer{
+    width: 100%;
+    height: 100px;
+    left: 0px;
+    top: 1335px;
+    background: #9400D3;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    left: 32px;
+    width: 300px;
+    height: 50px;
+    padding: 0px 0px 0px 35px;
+}
+.logo h1{
+    padding-left: 15px;
+    width: 258px;
+    height: 41px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
+.menu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 579px;
+    height: 27px;
+    left: 621px;  
+}
+.link1 a{
+    width: 25px;
+    height: 27px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    padding-left: 262px;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    text-decoration: none;    
+}
+.link2 a{
+    width: 72px;
+    height: 27px;
+    left: 117px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-left: 117px;    
+}
+.link3 a{
+    width: 21px;
+    height: 27px;
+    left: 361.18px;
+    top: 36px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    text-decoration: none;
+    padding-left: 172.18px;    
+}
+.link4 a{
+    padding-left: 89.82px;
+    width: 82px;
+    height: 27px;
+    left: 472px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+    text-decoration: none;
+}
